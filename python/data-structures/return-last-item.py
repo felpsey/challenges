@@ -19,5 +19,5 @@ def last_ind(item_collection):
     if (item_collection_len <= 0):
         return None
     else:
-        # Get the item at index of item_collection_len
+        # Get the last item at index (item_collection_len - 1)
         return item_collection[item_collection_len - 1]
