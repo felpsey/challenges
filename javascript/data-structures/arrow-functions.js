@@ -1,5 +1,5 @@
 /**
- * A function that takes two numbers as arguments and returns their sum.
+ * A function that returns the given argument, but by using an arrow function.
  * 
  * @author Ethan Phelps
  * @version 28.12.22
@@ -9,7 +9,7 @@
 /**
  * Returns value of input
  * @param {*} value
- * @returns {*} Value of input
+ * @returns {*} Value and type of value
  */
 arrowFunc = (value) =>
 {
