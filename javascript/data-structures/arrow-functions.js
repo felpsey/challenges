@@ -3,7 +3,7 @@
  * 
  * @author Ethan Phelps
  * @version 28.12.22
- * @challenge https://edabit.com/challenge/QkvDge63crdGnMfvM
+ * @url https://edabit.com/challenge/QkvDge63crdGnMfvM
  */
 
 /**

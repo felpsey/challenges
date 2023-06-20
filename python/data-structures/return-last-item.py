@@ -3,7 +3,7 @@ A function that returns the last value of the last item in a list or string.
 
 __author__ = "Ethan Phelps"
 __version__ = 28.12.22
-__challenge__ = "https://edabit.com/challenge/mcC546MLnBjNLXTb8"
+__url__ = "https://edabit.com/challenge/mcC546MLnBjNLXTb8"
 """
 
 def last_ind(item_collection):

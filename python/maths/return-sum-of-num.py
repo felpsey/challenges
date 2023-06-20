@@ -3,7 +3,7 @@ A function that takes two numbers as arguments and returns their sum.
 
 __author__ = "Ethan Phelps"
 __version__ = 28.12.22
-__challenge__ = "https://edabit.com/challenge/rZToTkR5eB9Zn4zLh"
+__url__ = "https://edabit.com/challenge/rZToTkR5eB9Zn4zLh"
 """
 
 def addition(left, right) -> int:
